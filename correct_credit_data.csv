@@ -1,0 +1,11 @@
+﻿credit_score,monthly_income,loan_amount,late_payments,existing_debt,age,employment_years,num_credit_cards,dependents,num_existing_loans,education,employment_type,home_ownership
+750,100000,250000,0,50000,35,8,3,2,1,Graduate,Salaried,Own
+720,85000,300000,1,25000,32,5,2,1,2,Post Graduate,Salaried,Rent
+680,60000,200000,2,35000,40,10,4,3,1,Graduate,Self-Employed,Mortgage
+650,55000,180000,3,45000,28,3,1,0,0,Under Graduate,Business,Rent
+620,45000,150000,4,55000,45,15,2,2,2,Graduate,Salaried,Own
+580,35000,120000,5,65000,50,20,1,3,3,High School,Retired,Own
+550,30000,100000,6,75000,55,25,1,4,4,Under Graduate,Self-Employed,Rent
+780,120000,400000,0,20000,30,7,4,1,0,Post Graduate,Salaried,Own
+700,75000,280000,2,40000,38,12,3,2,1,Graduate,Government,Rent
+640,50000,220000,3,50000,42,18,2,3,2,Graduate,Salaried,Mortgage
